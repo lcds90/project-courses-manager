@@ -1,4 +1,4 @@
-# Projeto - Programação Orientado a Objetos em C#
+# Projeto - Lista de Cursos
 
 ## :scroll: Sumário
 
